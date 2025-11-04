@@ -5,27 +5,6 @@ Este projeto é uma página institucional simples criada em **HTML e CSS** para 
 
 ---
 
-## 🧱 Estrutura do Projeto
-/Projeto-Helton
-│
-├── index.html # Página inicial
-│
-├── /html # Páginas internas
-│ ├── sobre.html # Informações sobre o professor
-│ ├── formacao.html # Formação acadêmica e profissional
-│ ├── disciplinas.html # Disciplinas ministradas
-│ └── contato.html # Formulário de contato
-│
-├── /css
-│ └── style.css # Folha de estilo principal
-│
-├── /img
-│ └── HeltonEFamilia.jpg # Imagem ilustrativa do professor
-│
-└── /docs
-└── CurriculoHelton.pdf # Currículo para download
-
-
 ---
 
 ## 💡 Descrição das Páginas
