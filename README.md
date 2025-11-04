@@ -74,19 +74,9 @@ O arquivo `style.css` define:
 
 - **HTML5** – Estrutura das páginas  
 - **CSS3** – Estilização e layout  
-- **Sem frameworks** – Código puro e leve  
+ 
 
 ---
-
-## 📦 Como Visualizar
-
-1. entre no link desse repositório:
-   ```bash
-   https://github.com/Amandabr922/Landing_Pages_Helton
-  
-
-
-Abra o arquivo index.html no seu navegador.
 
 👨‍🏫 Autor
 
