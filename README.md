@@ -1,9 +1,36 @@
 # Landing_Pages_Helton
 # 🌐 Site Landing Pages Prof. Helton Bezerra - IFCE Maranguape
 
+## 📖 Descrição do Projeto
 Este projeto é uma página institucional simples criada em **HTML e CSS** para apresentar informações sobre o **Professor Me. Helton Bezerra Moreira**, docente do IFCE Campus Maranguape.
 
+O site apresenta informações sobre um servidor escolhido pela dupla, incluindo biografia, formação, disciplinas (quando aplicável) e meios de contato.
+
 ---
+
+## 🧩 Estrutura do Projeto
+
+```
+landing-servidor-ifce/
+│
+├── index.html
+│
+├── html/
+│    ├── sobre.html
+│    ├── formacao.html
+│    ├── disciplinas.html
+│    └── contato.html
+│
+├── css/
+│    └── style.css
+│
+├── img/
+│    └── (imagens utilizadas no site)
+│
+└── docs/
+     └── (currículo em PDF do servidor)
+
+```
 
 ---
 
