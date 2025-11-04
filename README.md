@@ -76,6 +76,7 @@ O arquivo `style.css` define:
 
 1. entre no link desse repositório:
    ```bash
+   https://github.com/Amandabr922/Landing_Pages_Helton
   
 
 
