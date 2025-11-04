@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contato</title>
+        <link rel="stylesheet" href="../css/style.css">
+    </head>
+    <body>
+        <header>
+        <h1 style="text-align: center;">Prof Me. Helton Bezerra</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Início</a></li>
+                <li><a href= "sobre.html">Sobre</a></li>
+                <li><a href="formacao.html">Formação</a></li>
+                <li><a href="disciplinas.html">Disciplinas</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+        <main>
+            <div class="nomedocontado">
+                <h2 class="nome_contato">formulario de contato</h2>
+                <form action="/enviar_dados" method="post">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required><br><br>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="assunto">Assunto:</label>
+            <select id="assunto" name="assunto">
+                <option value="duvidas">Dúvidas sobre o conteúdo</option>
+                <option value="atividade">Entrega de atividade</option>
+                <option value="nota">Revisão de nota</option>
+                <option value="reuniao">Solicitar reunião</option>
+                <option value="outro">Outro assunto</option>
+            </select>
+            
+            <label for="mensagem">Mensagem:</label>
+            <textarea id="mensagem" name="mensagem" rows="0" cols="40"></textarea><br><br>
+            
+            <input type="submit" id="Enviar">
+            <input type="reset" id="Limpar">
+        </form>
+    </body>
+</html>
+        </main>
+    <footer>
+        <p>© 2025 IFCE - Campus Maranguape | Desenvolvido por [Amanda Alves e Anna Ellyca]</p>
+    </footer>
+    </body>
+</html>
